@@ -5,7 +5,7 @@ title: DuPanel — Privacy Policy
 # DuPanel — Политика конфиденциальности / Privacy Policy
 
 Дата вступления в силу / Effective date: 4 ноября 2026 / November 4, 2026
-Разработчик / Developer: Umed SAIDOV · Контакт / Contact: info@nurpay.tj
+Разработчик / Developer: Umed SAIDOV · Контакт / Contact: hotbynow@gmail.com
 
 ---
 
@@ -35,7 +35,7 @@ title: DuPanel — Privacy Policy
 При изменении политики новая версия будет опубликована по этой же ссылке с новой датой.
 
 ### Контакты
-Вопросы о конфиденциальности: **info@nurpay.tj**
+Вопросы о конфиденциальности: **hotbynow@gmail.com**
 
 ---
 
@@ -65,4 +65,4 @@ The app is not directed at children and does not collect children's data.
 If this policy changes, the new version will be published at the same address with a new date.
 
 ### Contact
-Privacy questions: **info@nurpay.tj**
+Privacy questions: **hotbynow@gmail.com**
