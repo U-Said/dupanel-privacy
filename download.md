@@ -11,6 +11,8 @@ Dual-pane file manager for foldable phones and tablets. Free, no ads.
 
 DuPanel для Windows, macOS и Linux / for Windows, macOS and Linux: [github.com/U-Said/DuPanel-releases](https://github.com/U-Said/DuPanel-releases)
 
+Сайт / Website: **[dupanel.dev](https://dupanel.dev)**
+
 Чтобы установить, откройте скачанный файл и разрешите установку из этого источника.
 To install, open the downloaded file and allow installation from this source.
 
