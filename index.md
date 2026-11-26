@@ -4,8 +4,8 @@ title: DuPanel — Privacy Policy
 
 # DuPanel — Политика конфиденциальности / Privacy Policy
 
-Дата вступления в силу / Effective date: 24 ноября 2026 / November 24, 2026
-Разработчик / Developer: Umed SAIDOV · Контакт / Contact: hotbynow@gmail.com
+Дата вступления в силу / Effective date: 26 ноября 2026 / November 26, 2026
+Разработчик / Developer: U-Said · Контакт / Contact: support@dupanel.dev
 
 ---
 
@@ -35,7 +35,7 @@ title: DuPanel — Privacy Policy
 При изменении политики новая версия будет опубликована по этой же ссылке с новой датой.
 
 ### Контакты
-Вопросы о конфиденциальности: **hotbynow@gmail.com**
+Вопросы о конфиденциальности: **support@dupanel.dev**
 
 ---
 
@@ -65,4 +65,4 @@ The app is not directed at children and does not collect children's data.
 If this policy changes, the new version will be published at the same address with a new date.
 
 ### Contact
-Privacy questions: **hotbynow@gmail.com**
+Privacy questions: **support@dupanel.dev**
